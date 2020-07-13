@@ -5,5 +5,3 @@ I'm creating amazing thing here, take a look!⚡
 
 👽 I write technical articles here: http://dev.to/damxipo
 😎 My email is: damian.cipolat@gmail.com
-
-😄 😆😊😃😏😍😘😚😳😌😆😁😉😜😝😀😗😙😛😴😟😦😧😮😬😕😯😑😒😅😓😥😩😔😞😖😨😰😣😢😭😂😲
