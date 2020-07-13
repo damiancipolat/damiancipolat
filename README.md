@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<img src="https://github.com/damiancipolat/damiancipolat/blob/master/logo.png?raw=true" width="500px"/>
+
 <!--
 **damiancipolat/damiancipolat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
